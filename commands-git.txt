@@ -1,0 +1,4 @@
+git clone "Git repository"                                 -------   Pour cloner un repository
+git add "Fichier a ajouter"                                -------   Pour add dans le repository
+git commit "Fichier a ajouter" -m "Commentaire de l'ajout" -------   Pour sauvegarder les modifs
+git push origin main                                       -------   Pour push vers gitHub
